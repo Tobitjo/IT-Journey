@@ -1,0 +1,1 @@
+ This is a siimple Email Simulator that simulates sending, receiving, and managing emails between different users.
